@@ -23,7 +23,10 @@ This repository contains a basic implementation of CRUD(Create Read Update and D
     the database using a nonstandard variant of the SQL query language. Some applications can use SQLite for internal data storage. 
     It’s also possible to prototype an application using SQLite and then port the code to a larger database such as PostgreSQL or Oracle.
  
- 
+# CRUD in SQLite3
+
+The concepts are introduced in sequence of the files. Each file built up to next implementation of CRUD. The file also contains documentation embedded in the file as comments.
+
 # Connecting to database
 
 **1_dbConnection.py**

@@ -1,6 +1,6 @@
 # Python with SQLite
 
-This repository contains a basic implementation of CRUD using python and pySQlite. It's aim for the beginners in database especially using standard relational database(sqlite). Some of the features of a relational database are intentionally left to make the concepts friendly to the leaners.
+This repository contains a basic implementation of CRUD(Create Read Update and Delete) using python and pySQlite. Some of the features of a relational database are intentionally left to make the concepts friendly to the beginners.
 
 **What is database ?**
 
@@ -75,7 +75,7 @@ SELECT with WHERE clause
     syntax
     SELECT columnname1, columnname2, ... FROM tablename WHERE columname = value
    
- # Commit to a databse table
+ # Commit to a database table
  
  **6_commit.py**
  

@@ -122,4 +122,11 @@ DELETE query removes the record from a table
 
 A database file will be generated in the current working directory. The file content will not be displayed in the editor because it is either binary or other.
 
+# Cusor function used
+
+**11.fetchall**
+
+Fetches all (remaining) rows of a query result, returning a list. Note that the cursor’s arraysize attribute can affect the performance of this operation. 
+An empty list is returned when no rows are available.
+https://www.adamsmith.haus/python/docs/sqlite3.Cursor.fetchall
 

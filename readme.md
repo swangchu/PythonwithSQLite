@@ -1,5 +1,7 @@
 # Python with SQLite
 
+This repository contains a basic implementation of CRUD using python and pySQlite. It's aim for the beginners in database especially using standard relational database(sqlite). Some of the features of a relational database are intentionally left to make the concepts friendly to the leaners.
+
 **What is database ?**
 
     According to https://www.oracle.com/database/what-is-database/
